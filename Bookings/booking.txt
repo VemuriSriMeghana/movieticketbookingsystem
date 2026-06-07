@@ -1,0 +1,2 @@
+Customer : Neelapu | Movie : OG | Theater : PSX | Show Time : 07-06-2026 14:13:56 | Tickets : 4 | Amount : 800
+ 
